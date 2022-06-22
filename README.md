@@ -5,7 +5,7 @@
 
 * El repositorio está alojado en GitHub por lo cual esta alojado en esta URL: (https://github.com/Elsnight/Camara.git)
 
-* Dirección del apk : (https://drive.google.com/drive/folders/1yVxX5yPoCYLpJ8KKSfYk_BSmLvbyjEY1)
+* Dirección del apk y archivo pdf : (https://drive.google.com/drive/folders/1yVxX5yPoCYLpJ8KKSfYk_BSmLvbyjEY1)
 
 ## Cómo funciona
 
