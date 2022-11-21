@@ -7,6 +7,11 @@
 
 * Dirección del apk y archivo pdf : (https://drive.google.com/drive/folders/1yVxX5yPoCYLpJ8KKSfYk_BSmLvbyjEY1)
 
+EVIDENCIAS DE LA APP
+========
+
+<img src="https://i.ibb.co/VC8dxhV/Camare.png" alt="drawing" width="700"/>
+
 ## Cómo funciona
 
 Después de que el usuario navega a la pestaña 2 (Fotos), puede tocar o hacer clic en el botón de la cámara para abrir la cámara del dispositivo. Después de tomar o seleccionar una foto, se almacena permanentemente en el sistema de archivos del dispositivo. Cuando el usuario vuelve a abrir la aplicación en otro momento, las imágenes fotográficas se cargan desde el sistema de archivos y se muestran nuevamente en la galería. El usuario puede tocar una foto para que se le presente la opción de eliminar la foto.
